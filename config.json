@@ -1,0 +1,12 @@
+{
+  "abacus_api_key": "your-abacus-ai-api-key-here",
+  "abacus_api_url": "https://api.abacus.ai/v1/chat/completions",
+  "model": "claude-sonnet-4",
+  "timeout": 300,
+  "max_tokens": 4000,
+  "temperature": 0.1,
+  "debug_logging": true,
+  "log_file": "pffavre_debug.log",
+  "just_log_prompts": true,
+  "truncate_log_file_on_run": true
+}
