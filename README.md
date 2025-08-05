@@ -2,7 +2,7 @@
 
 Meet PFFaRVE, a Flask-based web application that performs AI-powered vulnerability risk assessment using Claude Sonnet 4 via Abacus.AI.
 
-![wat](./474627411-67027a9a-b9cc-4c41-9a5f-7dd0f3b2f135.png)
+![wat](https://github.com/mbrownnycnyc/PFFaRVE/blob/main/static/logo.png?raw=true)
 
 
 ## Features
